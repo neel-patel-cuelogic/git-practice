@@ -3,5 +3,5 @@ function add(a, b) {
 }
 
 function multiplication(a, b) {
-    return a + b;
+    return a * b;
 }
